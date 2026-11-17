@@ -1,0 +1,28 @@
+Select Spice Level for Burger
+1.High 2.Mid 3.Low
+Select Spice Level for Pizza
+1.High 2.Mid 3.Low
+Select Spice Level for Sandwich
+1.High 2.Mid 3.Low
+Select Spice Level for Salad
+1.High 2.Mid 3.Low
+Select Drink Size for Soft Drink?
+1.Large 2.Medium 3.Small
+Select Drink Size for Lemonade?
+1.Large 2.Medium 3.Small
+Select Drink Size for Tea?
+1.Large 2.Medium 3.Small
+Burger: $8.5
+Spice Level: High
+Pizza: $18.55
+Spice Level: Mid
+Sandwich: $10.5
+Spice Level: Low
+Salad: $10.75
+Spice Level: Low
+Soft Drink: $2.5
+Drink Size: Large
+Lemonade: $3
+Drink Size: Medium
+Tea: $3.5
+Drink Size: Small

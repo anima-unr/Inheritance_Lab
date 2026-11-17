@@ -1,0 +1,4 @@
+Burger: $8.5 
+Pizza: $18.55 
+Sandwich: $10.5 
+Salad: $10.75

@@ -1,0 +1,3 @@
+Soft Drink: $2.5
+Lemonade: $3
+Tea: $3.5
